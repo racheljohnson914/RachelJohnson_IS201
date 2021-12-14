@@ -1,0 +1,27 @@
+body{
+color:rgb(0, 0, 48);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(229, 189, 255);
+resize:both
+}
+
+nav{
+    position: relative;
+    border: 5px solid rgb(43, 11, 46);
+    resize:horizontal;
+    color:rgb(88, 86, 86)
+}
+
+.subheading{
+    color: rgb(245, 241, 247);
+}
+
+.subsubheading{
+    font-style: italic;
+    color: rgb(50, 7, 70);
+}
+
+footer{
+    color: rgb(83, 83, 83);
+    resize:both
+}

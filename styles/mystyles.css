@@ -1,0 +1,14 @@
+
+header.masthead {
+
+    background-color:rgba(205, 162, 240, 0.767) ;
+} 
+
+body {
+    background-image: url("../images/brickwall.jpeg");
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black
+    
+}
